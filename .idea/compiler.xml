@@ -10,6 +10,7 @@
         <module name="service-http-ecommerce" />
         <module name="common-kafka" />
         <module name="service-new-order" />
+        <module name="service-reading-report" />
         <module name="service-fraud-detector" />
         <module name="service-email" />
         <module name="service-users" />
@@ -23,6 +24,7 @@
       <module name="service-http-ecommerce" target="10" />
       <module name="service-log" target="10" />
       <module name="service-new-order" target="10" />
+      <module name="service-reading-report" target="10" />
       <module name="service-users" target="10" />
     </bytecodeTargetLevel>
   </component>
