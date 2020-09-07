@@ -8,18 +8,22 @@
         <outputRelativeToContentRoot value="true" />
         <module name="service-log" />
         <module name="service-http-ecommerce" />
+        <module name="service-email-new-order" />
         <module name="common-kafka" />
         <module name="service-new-order" />
         <module name="service-reading-report" />
+        <module name="common-database" />
         <module name="service-fraud-detector" />
         <module name="service-email" />
         <module name="service-users" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="common-database" target="10" />
       <module name="common-kafka" target="10" />
       <module name="ecommerce" target="10" />
       <module name="service-email" target="10" />
+      <module name="service-email-new-order" target="10" />
       <module name="service-fraud-detector" target="10" />
       <module name="service-http-ecommerce" target="10" />
       <module name="service-log" target="10" />

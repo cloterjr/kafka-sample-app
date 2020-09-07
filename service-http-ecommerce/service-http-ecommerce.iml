@@ -19,6 +19,8 @@
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.4.23.v20191118" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:9.4.23.v20191118" level="project" />
     <orderEntry type="module" module-name="common-kafka" />
+    <orderEntry type="module" module-name="common-database" />
+    <orderEntry type="library" name="Maven: org.xerial:sqlite-jdbc:3.28.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:2.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.luben:zstd-jni:1.4.0-1" level="project" />
     <orderEntry type="library" name="Maven: org.lz4:lz4-java:1.6.0" level="project" />
